@@ -1,4 +1,4 @@
-# COVID-19 Cases Predictions by Date
+# COVID-19 Cases Predictions by Date (Ontario)
 
 As a University student who loves to plan ahead, the awaiting announcement of schools being reopened is dreadful. Experts have stated that once a country achieve herd immunity, 
 restrictions can be lifted, meaning a higher possibility of going back to school. Depending on the disease, herd immunity can consist of 95% of the population vaccinated (measles) 
